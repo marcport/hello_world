@@ -2,9 +2,14 @@
 My first GitHub Repo 
 
 
-#Favorite Movies
+## Favorite Movies
 
--Love Jones
--Friday
--Snowden
+- Love Jones
+- Friday
+-  Snowden
 
+## Favorite Bikes
+
+- Kawasaki
+- Honda
+- Suzuki
